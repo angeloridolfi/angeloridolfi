@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @angeloridolfi
-- 👀 I’m interested in Python, Linux, Development and Funny Cats!
+- 👀 I’m interested in Python, Linux, Development and knowledge!
 - 🌱 I’m currently learning Python and Algorithms
 - 💞️ I’m looking to collaborate on a project who i can use my abilities.
 - 📫 You can reach me at instagram: @ecologelo.
