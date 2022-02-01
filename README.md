@@ -1,5 +1,5 @@
 # Welcome to my profile! 🐧
-- 🖖 Hi, I’m @angeloridolfi
+- 🖖 Hi, I’m Ângelo Marcos
 - 👀 I’m interested in Python, Linux, Development and knowledge!
 - 🌱 I’m currently learning Python and Algorithms
 - 💞️ I’m looking to collaborate on a project who i can use my abilities.
